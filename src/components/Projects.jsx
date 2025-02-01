@@ -16,8 +16,8 @@ const projects = [
     description: "Portafolio personal, donde expongo mis proyectos, habilidades y experiencia en desarrollo web. La interfaz cuenta con animaciones fluidas y efectos visuales de partículas, lo que ofrece una experiencia interactiva y moderna. Además, es completamente responsivo, adaptándose a distintos dispositivos, desde móviles hasta escritorios.",
     image: Portafolio,
     tech: ["React", "Css", "JavaScript"],
-    repo: "https://github.com/usuario/portfolio",
-    demo: "https://miportafolio.vercel.app",
+    repo: "https://github.com/DanielaAguilar-source/Portafolio.git",
+    demo: "https://mi-portafolio-daniela.netlify.app/",
   },
 ];
 

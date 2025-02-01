@@ -318,14 +318,6 @@ a {
   border-radius: 5px;
   font-size: 1.5rem;
 }
-
-* Contenedor de los enlaces */
-.project-content div:last-child {
-  margin-top: 15px;
-  display: flex;
-  gap: 15px;
-}
-
 /* Botones de GitHub y Demo */
 .project-content a {
   display: flex;
